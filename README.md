@@ -10,6 +10,14 @@ Expense Categorization: Organize your expenses by category (e.g., food, transpor
 Detailed Insights: Visualize your spending habits with charts and reports, helping you identify trends and make better financial decisions.
 Financial Planning: Set budget goals and track your progress, empowering you to stay on top of your finances.
 
+## Installation
+
+Before using the Expense Tracker platform, make sure to install the necessary dependencies. Open your terminal and run the following command:
+
+npm install --legacy-peer-deps
+
+This command ensures that your project installs packages while ignoring peer dependency conflicts, which can be helpful in managing package versions.
+
 ## How to Use :
 
 Adding an Expense
